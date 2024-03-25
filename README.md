@@ -43,6 +43,7 @@ Conecte o buzzer:
 - Pino positivo do buzzer ao GND do Arduino.
 
 Exemplo:
+
 ![Screenshot_19](https://github.com/tultaa/CP1_Edge/assets/78042666/ffafd69d-61a0-4a9f-9ebb-863dca8cf40d)
 
 Código: na Pasta "cp1Edge"
