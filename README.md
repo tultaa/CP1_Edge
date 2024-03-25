@@ -2,6 +2,8 @@
 
 Turma: 1ESPH Integrantes: Arthur Fellipe, Eduardo Pires, Leonardo Munhoz
 
+LINK DO TINKERCAD: https://www.tinkercad.com/things/kxzj29PMpFi-cp1-edge
+
 Componentes Utilizados:
 
 - Arduino Uno
