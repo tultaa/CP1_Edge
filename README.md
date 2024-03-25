@@ -14,3 +14,5 @@ Componentes Utilizados:
 - Buzzer
 - Protoboard
 - Cabos Jumper
+
+Código na Pasta "cp1Edge"
