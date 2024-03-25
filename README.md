@@ -41,5 +41,5 @@ Conecte o buzzer:
 
 - Pino negativo do buzzer ao pino digital 5 do Arduino.
 - Pino positivo do buzzer ao GND do Arduino.
-
+![Screenshot_19](https://github.com/tultaa/CP1_Edge/assets/78042666/ffafd69d-61a0-4a9f-9ebb-863dca8cf40d)
 Código: na Pasta "cp1Edge"
